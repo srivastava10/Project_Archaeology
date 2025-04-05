@@ -21,7 +21,7 @@ conda create -n archEnv
 conda activate archEnv
 ```
 ```bash
-git clone 
+git clone https://github.com/srivastava10/Project_Archaeology
 ```
 *Install all necessary libraries and modules
 
